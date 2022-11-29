@@ -1,1 +1,1 @@
-A directory for ALX git task
+Directory for ALX git task
